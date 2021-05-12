@@ -33,10 +33,10 @@ header img{
 nav{
     padding: 15px 10px 10px 0;
 }
-ul {
+nav ul {
     list-style: none;
 }
-li { 
+nav li { 
     color: gray;
     display: inline-block;
     margin-right: 15px;
